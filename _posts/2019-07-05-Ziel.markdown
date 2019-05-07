@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Unsere Ziele"
+date:   2019-07-05
+description: Das sind unsere Primär- und Sekundärmission für den CanSat - Wettbewerb 2019.
+---
+
+<p class="intro">Das sind unsere Primär- und Sekundärmission für den CanSat - Wettbewerb 2019.</p> 
+
+Nutzung des Satelliten als Zwischenstation zur Live - Datenübertragung;
+Satellit aus recycelten Materialien
+
+Satellietenkommunikation: Alternative zur herkömmlichen Telekommunikation an schwer zugänglichen Orten (z.B. Rückseite des Mondes):
+  CanSat als Verbindungsglied zwischen Zwei Kommunikationspartnern, die sonst keine direkte Verbindung aufbauen können.
+Satellit aus recycelten Materialien: Fokus auf Nachhaltigkeit & erreichen gleichwertiger Standards wie mit nicht-recycelten Materialen.
+  Wir möchten Modularität mit Recycling und Massenproduktion verbinden und den CanSat-Bau so auf eine neue Stufe heben.
+  Wirtschaftliche Massenfertigung statt  langwieriges, teures Prototyping via 3D-Druck.
+
+Anwendung findet dieses Prinzip (in veränderter Form) u. a. in der chinesischen Raumsonde Chang'e-4,
+um die Kommunikation zwischen Mondrückseite und Erde zu ermöglichen.
+Wir möchten die universelle Anwendbarkeit dieser Technologie bei perspektivischen Missionen, auf der Erde oder im Weltraum, untersuchen.
+Massenfertigung im Spritzgussverfahren findet bisher nur im professionellen Bereich Anwendung 
