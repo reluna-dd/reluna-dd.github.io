@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Das Team"
+date:   2019-05-07
+description: Unser Team besteht aus...
+---
+
+<p class="intro"></p> 
+
+Wir sind Ben Hofmann, Sandra Urban, Jannik Holfert und Julian Henze.
